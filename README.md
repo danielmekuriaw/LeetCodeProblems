@@ -30,4 +30,17 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
