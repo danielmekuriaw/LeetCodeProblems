@@ -31,6 +31,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | ------- |
 | [0066-plus-one](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,12 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
