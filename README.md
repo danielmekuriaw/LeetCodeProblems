@@ -35,6 +35,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | ------- |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -64,4 +66,5 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
