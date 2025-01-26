@@ -34,6 +34,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | [0066-plus-one](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
