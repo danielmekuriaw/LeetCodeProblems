@@ -18,6 +18,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,12 +41,14 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +65,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
