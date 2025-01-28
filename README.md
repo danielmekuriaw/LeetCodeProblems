@@ -29,6 +29,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +72,8 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | ------- |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
