@@ -13,9 +13,6 @@ class Solution:
             flag = True;
 
             while n < ln and h < lh:
-                print("n: ", n, needle[n]);
-                print("h: ", h, haystack[h]);
-
                 if haystack[h] != needle[n]:
                     flag = False;
                     h = initial;
