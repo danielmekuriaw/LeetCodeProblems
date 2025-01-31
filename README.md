@@ -31,6 +31,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ Solutions to different LeetCode problems, tracked by this repo using the LeetHub
 | [0013-roman-to-integer](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
