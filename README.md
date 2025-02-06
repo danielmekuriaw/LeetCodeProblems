@@ -4,7 +4,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 Solutions to different LeetCode problems, tracked in this repo using the LeetHub v2 Chrome extension.
 
 <!---LeetCode Topics Start-->
-# Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -42,6 +42,7 @@ Solutions to different LeetCode problems, tracked in this repo using the LeetHub
 | [0069-sqrtx](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/danielmekuriaw/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## String
 |  |
